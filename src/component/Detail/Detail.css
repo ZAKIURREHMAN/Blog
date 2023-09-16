@@ -1,0 +1,25 @@
+.Detail-container{
+    margin: 20px 0px;
+}
+.images{
+    height: 300px;
+}
+.images img{
+    height: 300px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.alldiscription{
+    text-align: center;
+    background: linear-gradient(to right, green,rgb(255, 0, 157),rgb(234, 0, 255),rgb(0, 17, 255));
+    color: white;
+    margin: 10px 0px;
+}
+.authername{
+    text-align: center;
+}
+.time{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.allblog-container{
+    height: 500px;
+    margin: 60px 0px;
+    display: flex;
+    column-gap: 40px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.over-data{
+    height: 500px;
+    width: 230px;
+}
+.img{
+    height: 200px;
+}
+.img img{
+    width: 220px;
+    height: 200px;
+}
+.titels{
+    height: 30px;
+}
+.desctiption{
+    height: 200px;
+    margin: 30px 0px;
+}
+.username{
+    height: 50px;
+}
